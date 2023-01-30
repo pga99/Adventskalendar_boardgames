@@ -1,0 +1,427 @@
+,playDate,durationMin,gameRefId,number_players,jul vs paula,jul and paula,coop,winner,scores difference,id,bggName,bggYear,designers
+0,2020-11-19 19:42:33,15,75,2,True,True,0,Paula,3.0,75,Mandala,2019,"Trevor Benjamin, Brett J. Gilbert"
+3,2020-11-19 19:24:50,20,101,2,True,True,0,Paula,120.0,101,Fantastische Reiche,2017,Bruce Glassco
+4,2020-11-19 19:07:34,20,101,2,True,True,0,Jul,111.0,101,Fantastische Reiche,2017,Bruce Glassco
+5,2020-11-18 22:15:06,35,98,2,True,True,0,Jul,6.0,98,My City,2020,Reiner Knizia
+7,2020-11-18 21:57:54,40,98,2,True,True,0,Paula,11.0,98,My City,2020,Reiner Knizia
+9,2020-11-18 21:50:07,35,98,2,True,True,0,Jul,1.0,98,My City,2020,Reiner Knizia
+11,2020-11-18 10:00:00,15,101,2,True,True,0,Jul,25.0,101,Fantastische Reiche,2017,Bruce Glassco
+12,2020-11-17 19:01:29,15,101,2,True,True,0,Jul,14.0,101,Fantastische Reiche,2017,Bruce Glassco
+13,2020-11-17 16:44:30,25,98,2,True,True,0,Jul,3.0,98,My City,2020,Reiner Knizia
+15,2020-11-16 13:01:48,25,98,2,True,True,0,Paula,4.0,98,My City,2020,Reiner Knizia
+17,2020-11-14 21:07:44,25,98,2,True,True,0,Jul,9.0,98,My City,2020,Reiner Knizia
+19,2020-11-14 20:30:21,25,98,2,True,True,0,Paula,5.0,98,My City,2020,Reiner Knizia
+21,2020-11-14 20:20:38,25,98,2,True,True,0,Paula,10.0,98,My City,2020,Reiner Knizia
+23,2020-11-14 19:15:26,25,98,2,True,True,0,Paula,1.0,98,My City,2020,Reiner Knizia
+25,2020-11-14 18:54:24,20,59,1,False,False,1,Jul,,59,Ubongo,2003,Grzegorz Rejchtman
+26,2020-11-14 18:02:27,90,104,1,False,False,1,Jul,,104,Detective Stories: Fall 2 – Antarktis Fatale,2019,Alexander Krys
+27,2020-11-12 17:44:47,18,59,1,False,False,1,Jul,,59,Ubongo,2003,Grzegorz Rejchtman
+28,2020-11-12 13:27:50,16,59,1,False,False,1,Jul,,59,Ubongo,2003,Grzegorz Rejchtman
+29,2020-11-10 20:22:35,60,91,1,False,False,1,Jul,,91,Hidden Games: The Case „Klein-Borstelheim“,2019,
+30,2020-11-08 22:11:11,25,98,2,True,True,0,Jul,1.0,98,My City,2020,Reiner Knizia
+32,2020-11-08 22:10:56,25,98,2,True,True,0,Jul,7.0,98,My City,2020,Reiner Knizia
+34,2020-11-08 22:10:32,21,98,2,True,True,0,Jul,7.0,98,My City,2020,Reiner Knizia
+36,2020-11-08 20:33:10,60,103,1,False,False,1,Jul,,103,Legends of Andor,2012,Michael Menzel
+37,2020-11-08 11:59:52,20,59,1,False,False,1,Jul,,59,Ubongo,2003,Grzegorz Rejchtman
+38,2020-11-06 11:01:27,60,102,4,False,True,1,,,102,,0,
+39,2020-11-06 11:00:53,60,50,4,False,True,1,,,50,Outburst!,1986,Brian Hersch
+40,2020-11-04 22:14:19,25,98,2,True,True,0,Paula,3.0,98,My City,2020,Reiner Knizia
+42,2020-11-04 21:37:08,25,98,2,True,True,0,Paula,18.0,98,My City,2020,Reiner Knizia
+44,2020-11-04 21:36:42,25,98,2,True,True,0,Jul,12.0,98,My City,2020,Reiner Knizia
+46,2020-11-01 20:24:58,17,98,2,True,True,0,Jul,13.0,98,My City,2020,Reiner Knizia
+48,2020-11-01 20:24:46,20,98,2,True,True,0,Jul,11.0,98,My City,2020,Reiner Knizia
+50,2020-11-01 20:24:28,15,98,2,True,True,0,Paula,1.0,98,My City,2020,Reiner Knizia
+52,2020-11-01 10:14:55,45,102,3,False,True,0,Paula,2.0,102,,0,
+53,2020-10-31 22:14:02,25,98,2,True,True,0,Paula,1.0,98,My City,2020,Reiner Knizia
+55,2020-10-31 22:13:51,25,98,2,True,True,0,Paula,13.0,98,My City,2020,Reiner Knizia
+57,2020-10-31 22:13:34,25,98,2,True,True,0,Jul,3.0,98,My City,2020,Reiner Knizia
+59,2020-10-31 22:13:04,25,98,2,True,True,0,Jul,3.0,98,My City,2020,Reiner Knizia
+61,2020-10-31 16:32:48,15,98,2,True,True,0,Paula,9.0,98,My City,2020,Reiner Knizia
+63,2020-10-31 16:32:18,20,98,2,True,True,0,Paula,5.0,98,My City,2020,Reiner Knizia
+65,2020-10-29 13:33:03,37,100,1,False,False,1,Jul,,100,"Detective Stories: Demo ""Gattardo""",2019,
+66,2020-10-26 13:19:26,60,99,1,False,False,1,,,99,Exit: The Game – The Enchanted Forest,2020,"Inka Brand, Markus Brand"
+67,2020-10-24 16:57:04,60,90,1,False,False,1,Jul,,90,Unlock!: Heroic Adventures,2018,"Cyril Demaegd, Dave Neale"
+68,2020-10-18 17:08:49,60,94,3,False,True,1,Paula,,94,Smart 10,2017,"Christoph Reiser, Arno Steinwender"
+69,2020-10-18 12:44:23,60,97,3,False,True,0,Paula,6.0,97,Mariposas,2020,Elizabeth Hargrave
+70,2020-10-17 20:50:20,30,94,3,False,True,1,Paula,,94,Smart 10,2017,"Christoph Reiser, Arno Steinwender"
+71,2020-10-06 17:13:03,60,90,1,False,False,1,Jul,,90,Unlock!: Heroic Adventures,2018,"Cyril Demaegd, Dave Neale"
+72,2020-10-06 15:02:08,60,96,1,False,False,1,Jul,,96,Deckscape: Escape from Alcatraz,2020,"Martino Chiacchiera, Silvano Sorrentino"
+73,2020-10-06 13:19:53,60,95,1,False,False,1,Jul,,95,Exit: The Game – The Cemetery of the Knight,2020,"Inka Brand, Markus Brand"
+74,2020-10-02 19:10:26,15,94,4,False,True,1,Paula,,94,Smart 10,2017,"Christoph Reiser, Arno Steinwender"
+75,2020-10-02 19:09:48,15,94,4,False,True,1,Nicola,,94,Smart 10,2017,"Christoph Reiser, Arno Steinwender"
+76,2020-09-21 20:48:30,60,93,1,False,False,1,Jul,,93,Exit: The Game – The Mysterious Museum,2018,"Inka Brand, Markus Brand, Sandra Dochtermann, Ralph Querfurth"
+77,2020-09-20 20:47:00,80,67,1,False,False,1,Jul,,67,Unlock!: Exotic Adventures,2018,Cyril Demaegd
+78,2020-08-17 21:17:46,90,92,2,True,True,0,Jul,41.0,92,Great Western Trail,2016,Alexander Pfister
+79,2020-08-15 16:19:29,15,88,4,False,True,1,Marin,,88,Spicy,2020,Győri Zoltán Gábor
+80,2020-08-15 16:19:09,15,88,4,False,True,1,Jonas ,,88,Spicy,2020,Győri Zoltán Gábor
+81,2020-08-14 17:22:07,30,41,5,False,True,1,,,41,Just One,2018,"Ludovic Roudy, Bruno Sautter"
+82,2020-08-14 17:21:37,20,88,4,False,False,1,Jonas ,,88,Spicy,2020,Győri Zoltán Gábor
+83,2020-08-14 17:21:09,17,88,4,False,False,1,Jonas ,,88,Spicy,2020,Győri Zoltán Gábor
+84,2020-08-12 22:06:17,120,92,2,True,True,0,Paula,34.0,92,Great Western Trail,2016,Alexander Pfister
+85,2020-08-09 22:00:03,120,92,2,True,True,0,Paula,10.0,92,Great Western Trail,2016,Alexander Pfister
+86,2020-08-02 11:55:39,15,88,3,False,True,1,Paula,,88,Spicy,2020,Győri Zoltán Gábor
+87,2020-08-02 11:32:13,15,88,3,False,True,1,Paula,,88,Spicy,2020,Győri Zoltán Gábor
+88,2020-08-02 11:16:16,20,88,3,False,True,1,Jul,,88,Spicy,2020,Győri Zoltán Gábor
+89,2020-07-31 14:16:14,15,83,2,True,True,1,Jul,,83,The Game: Face to Face,2017,"Steffen Benndorf, Reinhard Staupe"
+90,2020-07-26 12:05:04,45,90,1,False,False,1,Jul,,90,Unlock!: Heroic Adventures,2018,"Cyril Demaegd, Dave Neale"
+91,2020-07-24 23:09:01,140,87,2,True,True,0,Paula,39.0,87,Tapestry,2019,Jamey Stegmaier
+93,2020-07-18 23:12:47,150,33,5,False,True,0,Julia,18.0,33,Terraforming Mars,2016,Jacob Fryxelius
+94,2020-07-12 16:47:55,30,89,4,False,False,1,Paula,,89,Anno Domini: Erfindungen,1999,Urs Hostettler
+95,2020-07-11 21:36:07,20,86,3,False,False,0,Paula,,86,NMBR 9,2017,Peter Wichmann
+96,2020-07-11 21:25:06,20,86,3,False,False,0,Julia,,86,NMBR 9,2017,Peter Wichmann
+97,2020-07-11 20:09:13,14,88,4,False,True,0,Paula,24.0,88,Spicy,2020,Győri Zoltán Gábor
+98,2020-07-11 19:57:44,19,88,4,False,True,0,Paula,50.0,88,Spicy,2020,Győri Zoltán Gábor
+99,2020-07-11 19:46:56,10,86,2,False,False,0,Renate,,86,NMBR 9,2017,Peter Wichmann
+100,2020-07-11 19:31:03,16,88,4,False,True,0,Paula,28.0,88,Spicy,2020,Győri Zoltán Gábor
+101,2020-07-10 23:34:34,150,87,3,False,True,0,Jul,64.0,87,Tapestry,2019,Jamey Stegmaier
+103,2020-07-10 17:00:12,30,86,2,False,False,0,Jul,,86,NMBR 9,2017,Peter Wichmann
+104,2020-07-10 16:50:08,20,86,2,False,False,0,Jul,,86,NMBR 9,2017,Peter Wichmann
+105,2020-07-08 20:40:23,18,86,2,False,False,0,Paula,,86,NMBR 9,2017,Peter Wichmann
+106,2020-07-08 20:39:53,15,86,2,False,False,0,Marta,,86,NMBR 9,2017,Peter Wichmann
+107,2020-07-08 17:12:58,120,85,2,False,False,1,,,85,Exit: The Game – The Forbidden Castle,2017,"Inka Brand, Markus Brand"
+108,2020-07-05 18:40:42,70,84,2,False,False,1,,,84,Unlock!: Escape Adventures,2017,"Alice Carroll, Thomas Cauët, Cyril Demaegd"
+109,2020-07-04 21:19:06,25,78,3,False,True,0,Paula,22.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+110,2020-07-03 10:00:00,20,83,2,True,True,1,Jul,,83,The Game: Face to Face,2017,"Steffen Benndorf, Reinhard Staupe"
+111,2020-07-03 10:00:00,24,83,2,True,True,1,Jul,,83,The Game: Face to Face,2017,"Steffen Benndorf, Reinhard Staupe"
+112,2020-07-03 10:00:00,15,83,2,True,True,1,Paula,,83,The Game: Face to Face,2017,"Steffen Benndorf, Reinhard Staupe"
+113,2020-06-27 22:47:58,148,33,4,False,True,0,Jul,12.0,33,Terraforming Mars,2016,Jacob Fryxelius
+114,2020-06-20 22:20:35,50,78,3,False,True,0,Jul,41.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+115,2020-06-16 16:38:57,150,7,3,False,True,0,Nicola,380.0,7,Wizard,1984,Ken Fisher
+118,2020-06-13 10:10:21,90,71,4,False,True,0,Marta,80.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+119,2020-06-12 10:00:00,120,71,4,False,True,0,Paula,7.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+120,2020-06-11 15:54:02,27,78,2,True,True,0,Jul,7.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+121,2020-06-10 21:28:48,110,82,1,False,False,1,Jul,,82,Exit: The Game – The Sinister Mansion,2018,"Inka Brand, Markus Brand, Ralph Querfurth"
+122,2020-06-10 21:23:27,90,71,4,False,True,0,,3.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+123,2020-06-08 21:39:00,20,80,4,False,False,1,,,80,Kneipenquiz: Das Original,2016,"Heinrich Glumpler, Darren Grundorf, Marco Teubner, Tom Zimmermann"
+124,2020-06-07 22:00:46,120,71,4,False,True,0,,14.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+125,2020-06-07 15:03:46,50,79,2,True,True,0,Jul,8.0,79,The Voyages of Marco Polo,2015,"Simone Luciani, Daniele Tascini"
+126,2020-06-06 17:12:54,90,67,3,False,True,1,,,67,Unlock!: Exotic Adventures,2018,Cyril Demaegd
+127,2020-06-06 13:06:08,25,75,2,True,True,0,Jul,3.0,75,Mandala,2019,"Trevor Benjamin, Brett J. Gilbert"
+130,2020-06-05 22:26:42,90,71,4,False,True,0,Jul,8.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+131,2020-06-05 10:00:00,30,78,2,True,True,0,Paula,9.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+132,2020-06-03 16:44:37,20,81,2,True,True,0,Jul,6.0,81,Colour Brain,2017,
+133,2020-06-03 16:44:15,25,81,2,True,True,0,Jul,10.0,81,Colour Brain,2017,
+134,2020-06-02 10:00:00,150,71,4,False,True,0,Jul,5.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+135,2020-06-01 17:21:02,60,80,4,False,True,1,,,80,Kneipenquiz: Das Original,2016,"Heinrich Glumpler, Darren Grundorf, Marco Teubner, Tom Zimmermann"
+136,2020-06-01 17:20:31,30,80,4,False,True,1,,,80,Kneipenquiz: Das Original,2016,"Heinrich Glumpler, Darren Grundorf, Marco Teubner, Tom Zimmermann"
+137,2020-05-31 10:04:59,20,75,2,True,True,0,Paula,13.0,75,Mandala,2019,"Trevor Benjamin, Brett J. Gilbert"
+140,2020-05-31 10:00:00,30,80,5,False,True,1,,,80,Kneipenquiz: Das Original,2016,"Heinrich Glumpler, Darren Grundorf, Marco Teubner, Tom Zimmermann"
+141,2020-05-30 21:19:41,25,78,2,True,True,0,Jul,14.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+142,2020-05-30 20:43:43,20,75,2,True,True,0,Jul,25.0,75,Mandala,2019,"Trevor Benjamin, Brett J. Gilbert"
+145,2020-05-30 20:26:21,20,75,2,True,True,0,Jul,8.0,75,Mandala,2019,"Trevor Benjamin, Brett J. Gilbert"
+148,2020-05-28 22:40:19,30,78,2,True,True,0,Paula,1.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+149,2020-05-28 21:59:31,120,79,2,True,True,0,Jul,1.0,79,The Voyages of Marco Polo,2015,"Simone Luciani, Daniele Tascini"
+150,2020-05-27 22:03:49,150,71,4,False,True,0,Renate,8.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+151,2020-05-27 17:43:04,30,78,2,True,True,0,Paula,5.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+152,2020-05-27 13:14:11,30,78,2,True,True,0,Jul,9.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+153,2020-05-26 21:15:24,25,78,2,True,True,0,Paula,17.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+154,2020-05-26 20:34:15,25,78,2,True,True,0,Paula,14.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+155,2020-05-26 17:53:21,25,78,2,True,True,0,Jul,4.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+156,2020-05-26 17:25:00,30,78,2,True,True,0,Paula,7.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+157,2020-05-26 17:24:35,25,78,2,True,True,0,Paula,3.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+158,2020-05-23 16:22:22,60,73,1,False,False,1,Jul,,73,Adventure Games: The Volcanic Island,2019,"Matthew Dunstan, Chihiro Mori, Phil Walker-Harding"
+159,2020-05-23 13:52:25,30,78,2,True,True,0,Paula,3.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+160,2020-05-23 11:04:20,0,78,2,True,True,0,Paula,8.0,78,Cartographers: A Roll Player Tale,2019,Jordy Adan
+161,2020-05-21 22:10:59,150,71,4,False,True,0,Renate,17.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+162,2020-05-20 21:34:41,0,75,2,True,True,0,Paula,14.0,75,Mandala,2019,"Trevor Benjamin, Brett J. Gilbert"
+165,2020-05-20 21:10:58,20,77,2,True,True,0,Jul,3.0,77,Trails of Tucana,2019,"Eilif Svensson, Kristian Amundsen Østby"
+166,2020-05-20 21:10:02,20,75,2,True,True,0,Paula,5.0,75,Mandala,2019,"Trevor Benjamin, Brett J. Gilbert"
+169,2020-05-19 22:49:09,120,76,4,False,True,1,,,76,Codenames,2015,Vlaada Chvátil
+170,2020-05-19 17:57:40,90,73,1,False,False,1,Jul,,73,Adventure Games: The Volcanic Island,2019,"Matthew Dunstan, Chihiro Mori, Phil Walker-Harding"
+171,2020-05-19 14:40:16,15,75,2,True,True,0,Paula,10.0,75,Mandala,2019,"Trevor Benjamin, Brett J. Gilbert"
+174,2020-05-17 20:39:55,47,74,4,False,False,1,,,74,,0,
+175,2020-05-16 22:45:18,150,33,4,False,True,0,Julia,4.0,33,Terraforming Mars,2016,Jacob Fryxelius
+176,2020-05-15 21:05:30,90,71,4,False,True,0,Paula,12.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+177,2020-05-15 16:45:50,90,73,1,False,False,1,Jul,,73,Adventure Games: The Volcanic Island,2019,"Matthew Dunstan, Chihiro Mori, Phil Walker-Harding"
+178,2020-05-13 15:49:25,60,73,1,False,False,1,Jul,,73,Adventure Games: The Volcanic Island,2019,"Matthew Dunstan, Chihiro Mori, Phil Walker-Harding"
+179,2020-05-12 13:20:03,60,72,1,False,False,1,Jul,,72,Deckscape: Test Time,2017,"Martino Chiacchiera, Silvano Sorrentino"
+180,2020-05-12 10:00:00,45,3,2,True,True,0,Jul,8.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+181,2020-05-10 21:40:46,135,71,4,False,True,0,Marta,11.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+182,2020-05-09 22:13:38,25,68,2,True,True,0,Paula,29.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+183,2020-05-08 21:32:40,150,71,4,False,True,0,Jul,11.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+184,2020-05-06 16:50:43,30,68,2,True,True,0,Jul,4.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+185,2020-05-05 21:36:38,90,71,4,False,True,0,Renate,11.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+186,2020-05-03 22:59:23,150,71,4,False,True,0,Paula,3.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+187,2020-05-02 15:15:14,40,53,2,True,True,0,Jul,7.0,53,Wingspan,2019,Elizabeth Hargrave
+188,2020-05-01 23:01:39,180,71,4,False,True,0,Marta,7.0,71,The King's Dilemma,2019,"Hjalmar Hach, Lorenzo Silva"
+189,2020-04-30 20:22:45,150,33,2,True,True,0,Jul,27.0,33,Terraforming Mars,2016,Jacob Fryxelius
+190,2020-04-29 20:43:00,30,68,2,True,True,0,Jul,17.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+191,2020-04-29 14:11:14,150,33,2,True,True,0,Paula,2.0,33,Terraforming Mars,2016,Jacob Fryxelius
+192,2020-04-28 19:13:02,60,70,1,False,False,1,Jul,,70,Exit: The Game – The Stormy Flight,2019,"Inka Brand, Markus Brand"
+193,2020-04-27 16:17:32,43,68,2,True,True,0,Jul,15.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+194,2020-04-27 14:21:12,150,33,2,True,True,0,Paula,22.0,33,Terraforming Mars,2016,Jacob Fryxelius
+195,2020-04-26 17:42:12,35,69,2,True,True,0,Paula,6.0,69,7 Wonders Duel,2015,"Antoine Bauza, Bruno Cathala"
+196,2020-04-25 15:40:46,30,68,2,True,True,0,Jul,37.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+197,2020-04-23 15:04:03,30,69,2,False,False,0,Paula,,69,7 Wonders Duel,2015,"Antoine Bauza, Bruno Cathala"
+198,2020-04-22 15:50:19,35,68,2,True,True,0,Jul,13.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+199,2020-04-20 22:18:54,132,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+200,2020-04-20 17:27:39,20,69,2,True,True,1,Paula,,69,7 Wonders Duel,2015,"Antoine Bauza, Bruno Cathala"
+201,2020-04-19 14:15:03,30,68,2,True,True,0,Paula,1.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+202,2020-04-19 11:51:48,90,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+203,2020-04-18 14:00:26,80,68,2,True,True,0,Paula,44.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+204,2020-04-15 10:00:00,90,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+205,2020-04-13 19:29:58,120,33,4,False,True,0,Jul,6.0,33,Terraforming Mars,2016,Jacob Fryxelius
+206,2020-04-13 15:09:29,50,3,2,True,True,0,Jul,1.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+207,2020-04-13 13:40:21,35,68,2,True,True,0,Jul,34.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+208,2020-04-12 15:55:47,35,68,2,True,True,0,Paula,53.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+209,2020-04-12 10:30:10,40,68,2,True,True,0,Paula,7.0,68,Azul: Summer Pavilion,2019,Michael Kiesling
+210,2020-04-11 21:53:09,90,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+211,2020-04-11 21:52:43,54,67,1,False,False,1,Jul,,67,Unlock!: Exotic Adventures,2018,Cyril Demaegd
+212,2020-04-11 15:36:22,45,53,2,True,True,0,Paula,7.0,53,Wingspan,2019,Elizabeth Hargrave
+213,2020-04-10 21:29:02,90,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+214,2020-04-09 10:00:00,69,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+215,2020-04-09 10:00:00,90,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+216,2020-04-06 10:00:00,100,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+217,2020-04-05 20:26:38,90,58,1,False,False,1,Jul,,58,Unlock!: Mystery Adventures,2017,"Arnaud Ladagnous, Fabrice Mazza, Sébastien Pauchon, Billy Stevenson"
+218,2020-04-05 10:50:35,70,66,2,True,True,1,,,66,EXIT: Das Spiel – Die Känguru-Eskapaden,2019,"Inka Brand, Markus Brand, Marc-Uwe Kling"
+219,2020-04-04 22:28:19,75,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+220,2020-04-04 22:27:55,60,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+221,2020-04-04 15:16:44,45,65,2,True,True,1,Jul,,65,Clank!: A Deck-Building Adventure,2016,Paul Dennen
+222,2020-04-03 20:06:23,45,28,2,True,True,0,Jul,5.0,28,Abyss,2014,"Bruno Cathala, Charles Chevallier"
+224,2020-04-01 22:43:22,80,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+225,2020-04-01 22:42:35,50,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+226,2020-03-29 22:03:22,90,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+227,2020-03-28 21:37:24,120,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+228,2020-03-22 20:52:07,120,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+229,2020-03-22 12:13:50,50,3,2,True,True,0,Jul,8.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+230,2020-03-21 22:19:57,75,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+231,2020-03-21 22:19:15,105,64,3,False,True,1,,,64,Pandemic Legacy: Season 2,2017,"Rob Daviau, Matt Leacock"
+232,2020-03-21 14:48:13,23,59,1,False,False,1,Jul,,59,Ubongo,2003,Grzegorz Rejchtman
+233,2020-03-15 17:54:10,60,12,4,False,True,0,Nicola,57.0,12,Rummikub,1977,Ephraim Hertzano
+234,2020-03-14 20:08:29,44,59,1,False,False,1,,,59,Ubongo,2003,Grzegorz Rejchtman
+235,2020-03-14 18:03:35,15,59,1,False,False,1,Paula,,59,Ubongo,2003,Grzegorz Rejchtman
+236,2020-03-14 16:24:49,35,53,2,True,True,0,Paula,9.0,53,Wingspan,2019,Elizabeth Hargrave
+237,2020-03-14 15:34:42,45,53,2,True,True,0,Jul,7.0,53,Wingspan,2019,Elizabeth Hargrave
+238,2020-03-13 15:59:27,90,63,1,False,False,1,Jul,,63,Mythos Tales,2016,"Hal Eccles, Will Kenyon, Jason Maxwell, Tim Uren"
+239,2020-02-23 17:11:06,90,62,3,False,True,1,,,62,The Crew: The Quest for Planet Nine,2019,Thomas Sing
+240,2020-02-22 16:10:34,55,61,1,False,False,1,Jul,,61,Exit: The Game – The Pharaoh's Tomb,2016,"Inka Brand, Markus Brand"
+241,2020-02-18 15:43:50,18,60,2,True,True,1,Jul,,60,Fugitive,2017,Tim Fowers
+243,2020-02-17 14:07:39,25,59,1,False,False,1,Jul,,59,Ubongo,2003,Grzegorz Rejchtman
+244,2020-02-16 15:36:08,50,58,1,False,False,1,Jul,,58,Unlock!: Mystery Adventures,2017,"Arnaud Ladagnous, Fabrice Mazza, Sébastien Pauchon, Billy Stevenson"
+245,2020-02-15 21:12:51,105,59,1,False,False,1,Jul,,59,Ubongo,2003,Grzegorz Rejchtman
+246,2020-02-14 13:25:40,0,47,3,False,True,0,Paula,4.0,47,Love Letter,2012,Seiji Kanai
+248,2020-02-02 14:12:25,133,7,3,False,True,0,Nicola,290.0,7,Wizard,1984,Ken Fisher
+251,2020-01-26 16:33:38,0,1,3,False,True,0,Maribel,26.0,1,Azul,2017,Michael Kiesling
+252,2020-01-26 15:51:37,175,19,4,False,True,0,Jul,44.0,19,Teotihuacan: City of Gods,2018,Daniele Tascini
+253,2020-01-22 19:21:51,70,53,2,True,True,0,Jul,18.0,53,Wingspan,2019,Elizabeth Hargrave
+254,2020-01-19 12:50:22,197,7,3,False,True,0,Nicola,320.0,7,Wizard,1984,Ken Fisher
+257,2020-01-18 16:46:37,77,58,2,False,False,1,,,58,Unlock!: Mystery Adventures,2017,"Arnaud Ladagnous, Fabrice Mazza, Sébastien Pauchon, Billy Stevenson"
+258,2020-01-12 11:26:13,90,53,3,False,True,0,Paula,28.0,53,Wingspan,2019,Elizabeth Hargrave
+259,2020-01-06 16:54:57,90,7,3,False,True,0,Jul,100.0,7,Wizard,1984,Ken Fisher
+262,2020-01-05 19:55:43,180,19,4,False,True,0,Jul,51.0,19,Teotihuacan: City of Gods,2018,Daniele Tascini
+263,2020-01-05 19:52:11,90,53,4,False,True,0,Jul,20.0,53,Wingspan,2019,Elizabeth Hargrave
+264,2020-01-04 16:07:54,105,35,3,False,True,1,,,35,Unlock!: Secret Adventures,2017,"Thomas Cauët, Lewis Cheshire, Arch Stanton"
+265,2020-01-02 15:59:03,46,57,1,False,False,1,,,57,Adventure Games: Monochrome Inc.,2019,"Matthew Dunstan, Phil Walker-Harding"
+266,2020-01-02 15:58:38,90,57,1,False,False,1,,,57,Adventure Games: Monochrome Inc.,2019,"Matthew Dunstan, Phil Walker-Harding"
+267,2020-01-01 22:23:55,45,57,1,False,False,1,,,57,Adventure Games: Monochrome Inc.,2019,"Matthew Dunstan, Phil Walker-Harding"
+268,2020-01-01 15:10:56,40,53,2,True,True,0,Jul,14.0,53,Wingspan,2019,Elizabeth Hargrave
+269,2020-01-01 11:58:06,45,53,2,True,True,0,Paula,15.0,53,Wingspan,2019,Elizabeth Hargrave
+270,2020-01-01 10:00:00,22,41,4,False,True,1,,,41,Just One,2018,"Ludovic Roudy, Bruno Sautter"
+271,2020-01-01 10:00:00,30,41,4,False,True,1,,,41,Just One,2018,"Ludovic Roudy, Bruno Sautter"
+272,2020-01-01 10:00:00,21,41,4,False,True,1,,,41,Just One,2018,"Ludovic Roudy, Bruno Sautter"
+273,2020-01-01 10:00:00,45,56,4,False,True,1,,,56,Taboo,1989,Brian Hersch
+274,2019-12-31 15:00:25,60,53,2,True,True,0,Jul,1.0,53,Wingspan,2019,Elizabeth Hargrave
+275,2019-12-30 20:59:14,105,53,4,False,True,0,Jul,24.0,53,Wingspan,2019,Elizabeth Hargrave
+276,2019-12-30 17:40:19,137,33,4,False,True,0,Julia,22.0,33,Terraforming Mars,2016,Jacob Fryxelius
+277,2019-12-29 21:46:29,95,53,4,False,True,0,Paula,8.0,53,Wingspan,2019,Elizabeth Hargrave
+278,2019-12-28 22:23:35,74,55,2,False,False,1,,,55,Deckscape: The Curse of the Sphinx,2019,"Martino Chiacchiera, Silvano Sorrentino"
+279,2019-12-28 18:37:05,65,54,2,False,False,1,,,54,Exit: The Game – The Haunted Roller Coaster,2019,"Inka Brand, Markus Brand, Ralph Querfurth"
+280,2019-12-26 19:39:10,39,53,2,True,True,0,Jul,1.0,53,Wingspan,2019,Elizabeth Hargrave
+281,2019-12-26 15:13:04,50,53,2,True,True,0,Jul,16.0,53,Wingspan,2019,Elizabeth Hargrave
+282,2019-12-25 19:33:25,180,6,3,False,True,0,Jul,300.0,6,Sluff Off!,2003,Stefan Dorra
+283,2019-12-25 14:09:45,11,52,3,False,True,1,Jul,,52,Black Stories: Nele Neuhaus Edition,0,Nele Neuhaus
+284,2019-12-23 14:52:56,55,51,1,False,False,1,Jul,,51,Deckscape: The Mystery of Eldorado,2018,"Martino Chiacchiera, Silvano Sorrentino"
+285,2019-12-22 16:52:53,300,20,7,False,True,1,Jul,,20,Poker,1810,(Uncredited)
+286,2019-12-22 16:40:35,22,50,3,False,True,1,Jul,,50,Outburst!,1986,Brian Hersch
+287,2019-12-22 16:40:18,15,49,3,False,True,1,Paula,,49,Anno Domini: Frauen,1999,Urs Hostettler
+288,2019-12-22 16:39:58,10,49,3,False,True,1,Sim ,,49,Anno Domini: Frauen,1999,Urs Hostettler
+289,2019-12-22 16:35:38,25,17,3,False,True,1,Jul,,17,Dixit,2008,Jean-Louis Roubira
+290,2019-12-20 16:43:10,270,20,6,False,True,1,Martin,,20,Poker,1810,(Uncredited)
+291,2019-12-15 10:00:00,270,48,3,False,True,1,,,48,Escape Tales: The Awakening,2018,"Jakub Caban, Matt Dembek, Bartosz Idzikowski"
+292,2019-11-29 18:33:53,133,7,3,False,True,0,Jul,270.0,7,Wizard,1984,Ken Fisher
+295,2019-11-22 16:47:28,300,20,6,False,False,1,,,20,Poker,1810,(Uncredited)
+296,2019-10-27 16:45:40,14,1,2,True,True,0,Paula,7.0,1,Azul,2017,Michael Kiesling
+297,2019-10-27 16:29:06,18,1,2,True,True,0,Jul,19.0,1,Azul,2017,Michael Kiesling
+298,2019-10-12 18:17:04,18,4,2,True,True,0,Paula,31.0,4,That's Pretty Clever,2018,Wolfgang Warsch
+299,2019-10-06 19:20:15,36,18,4,False,True,0,Paula,14.0,18,Dixit: Revelations,2016,Jean-Louis Roubira
+300,2019-10-06 18:19:27,32,43,4,False,True,1,Damian,,43,Men at Work,2019,Rita Modl
+301,2019-10-06 17:41:56,27,43,4,False,True,1,Jul,,43,Men at Work,2019,Rita Modl
+302,2019-10-03 17:34:56,137,7,3,False,True,0,Jul,290.0,7,Wizard,1984,Ken Fisher
+305,2019-10-03 10:42:21,65,3,2,True,True,0,Paula,10.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+306,2019-09-26 18:54:41,14,1,2,True,True,0,Jul,28.0,1,Azul,2017,Michael Kiesling
+307,2019-09-25 20:08:47,38,9,2,True,True,0,Jul,20.0,9,Isle of Skye: From Chieftain to King,2015,"Andreas Pelikan, Alexander Pfister"
+308,2019-09-24 18:05:55,15,22,2,True,True,1,,,22,Codenames: Duet,2017,"Vlaada Chvátil, Scot Eaton"
+309,2019-09-24 18:05:29,16,22,2,True,True,1,,,22,Codenames: Duet,2017,"Vlaada Chvátil, Scot Eaton"
+310,2019-09-19 21:05:06,180,7,3,False,True,0,Nicola,250.0,7,Wizard,1984,Ken Fisher
+313,2019-09-08 17:14:16,41,22,2,True,True,1,,,22,Codenames: Duet,2017,"Vlaada Chvátil, Scot Eaton"
+314,2019-09-08 16:25:20,28,28,2,True,True,0,Paula,20.0,28,Abyss,2014,"Bruno Cathala, Charles Chevallier"
+316,2019-09-08 15:47:59,24,1,2,True,True,0,Jul,8.0,1,Azul,2017,Michael Kiesling
+317,2019-09-07 15:23:38,160,45,2,True,True,1,,,45,Detective:  L.A. Crimes,2019,"Ignacy Trzewiczek, Mateusz Zaród"
+318,2019-08-25 17:15:36,22,43,3,False,True,1,Jul,,43,Men at Work,2019,Rita Modl
+319,2019-08-25 16:57:26,14,43,3,False,True,1,Paula,,43,Men at Work,2019,Rita Modl
+320,2019-08-25 16:10:59,140,7,3,False,True,0,Jul,280.0,7,Wizard,1984,Ken Fisher
+323,2019-08-25 12:53:00,18,47,3,False,True,0,Jul,1.0,47,Love Letter,2012,Seiji Kanai
+325,2019-08-25 12:37:46,16,47,3,False,True,0,Nicola,3.0,47,Love Letter,2012,Seiji Kanai
+327,2019-08-18 17:50:42,13,47,3,False,True,0,Paula,1.0,47,Love Letter,2012,Seiji Kanai
+329,2019-08-18 17:33:32,20,47,3,False,True,0,Paula,2.0,47,Love Letter,2012,Seiji Kanai
+331,2019-08-18 16:41:25,126,7,3,False,True,0,Jul,110.0,7,Wizard,1984,Ken Fisher
+334,2019-08-10 21:41:09,42,43,3,False,True,1,Marta,,43,Men at Work,2019,Rita Modl
+335,2019-08-10 21:40:24,32,43,3,False,True,1,Marta,,43,Men at Work,2019,Rita Modl
+336,2019-07-21 16:31:30,108,7,3,False,True,0,Paula,490.0,7,Wizard,1984,Ken Fisher
+339,2019-07-20 11:28:28,64,46,3,False,True,1,Jul,,46,Treasure Island,2018,Marc Paquien
+347,2019-07-19 22:27:42,86,27,3,False,True,0,,3.0,27,Endeavor: Age of Sail,2018,"Carl de Visser, Jarratt Gray"
+348,2019-07-18 20:40:25,12,1,2,True,True,0,Paula,21.0,1,Azul,2017,Michael Kiesling
+349,2019-07-13 21:58:45,210,45,2,True,True,1,,,45,Detective:  L.A. Crimes,2019,"Ignacy Trzewiczek, Mateusz Zaród"
+350,2019-07-07 15:14:11,95,13,1,False,False,1,,,13,The 7th Continent,2017,"Ludovic Roudy, Bruno Sautter"
+351,2019-07-06 17:26:52,42,17,4,False,True,1,Paula,,17,Dixit,2008,Jean-Louis Roubira
+352,2019-07-06 16:29:19,17,44,4,False,True,1,Paula,,44,King of Tokyo,2011,Richard Garfield
+353,2019-07-06 16:02:11,22,43,4,False,True,1,Moni ,,43,Men at Work,2019,Rita Modl
+354,2019-07-06 16:01:56,27,43,4,False,True,1,Franz,,43,Men at Work,2019,Rita Modl
+355,2019-07-06 16:00:58,6,42,4,False,True,1,Franz,,42,Tempel des Schreckens,2016,佐藤 雄介 (Yusuke Sato)
+356,2019-07-06 15:52:27,27,41,4,False,True,1,,,41,Just One,2018,"Ludovic Roudy, Bruno Sautter"
+357,2019-07-04 20:58:59,72,40,1,False,False,1,Jul,,40,Exit: The Game – The Forgotten Island,2017,"Inka Brand, Markus Brand"
+358,2019-07-03 19:06:48,54,35,2,True,True,1,,,35,Unlock!: Secret Adventures,2017,"Thomas Cauët, Lewis Cheshire, Arch Stanton"
+359,2019-07-03 17:00:30,21,39,3,False,True,0,Paula,16.0,39,Qwirkle,2006,Susan McKinley Ross
+360,2019-07-03 13:11:21,138,7,3,False,True,0,Nicola,400.0,7,Wizard,1984,Ken Fisher
+363,2019-06-29 13:51:49,28,39,3,False,True,0,Nicola,40.0,39,Qwirkle,2006,Susan McKinley Ross
+364,2019-06-29 12:05:28,150,7,3,False,True,0,Nicola,450.0,7,Wizard,1984,Ken Fisher
+367,2019-06-23 17:23:05,45,38,1,False,False,1,Jul,,38,Exit: The Game – The Sunken Treasure,2017,"Inka Brand, Markus Brand"
+368,2019-06-23 15:18:30,24,37,2,True,True,0,Paula,1.0,37,Sagrada,2017,"Adrian Adamescu, Daryl Andrews"
+370,2019-06-23 13:01:41,65,36,2,True,True,1,,,36,Detective Stories: Case 1 – The Fire in Adlerstein,2018,Alexander Krys
+371,2019-06-22 17:37:13,45,3,2,True,True,0,Paula,12.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+372,2019-06-22 15:35:55,60,35,2,True,True,1,,,35,Unlock!: Secret Adventures,2017,"Thomas Cauët, Lewis Cheshire, Arch Stanton"
+373,2019-06-21 21:22:42,40,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+374,2019-06-21 20:39:42,30,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+375,2019-06-21 20:06:37,30,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+376,2019-06-20 10:37:43,70,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+377,2019-06-18 22:53:25,66,34,3,False,True,0,Paula,14.0,34,Photosynthesis,2017,Hjalmar Hach
+378,2019-06-18 21:23:29,120,27,3,False,True,0,Maribel,12.0,27,Endeavor: Age of Sail,2018,"Carl de Visser, Jarratt Gray"
+379,2019-06-16 19:41:47,108,7,3,False,True,0,Nicola,170.0,7,Wizard,1984,Ken Fisher
+382,2019-06-16 11:06:39,52,5,2,True,True,0,Paula,4.0,5,Targi,2012,Andreas Steiger
+383,2019-06-15 11:11:29,50,5,2,True,True,0,Paula,3.0,5,Targi,2012,Andreas Steiger
+384,2019-06-10 17:26:12,106,7,3,False,True,0,Paula,280.0,7,Wizard,1984,Ken Fisher
+387,2019-06-10 14:00:54,61,3,2,True,True,0,Jul,29.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+388,2019-06-09 18:58:31,140,7,3,False,True,0,Jul,190.0,7,Wizard,1984,Ken Fisher
+391,2019-06-09 11:20:42,69,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+392,2019-06-08 11:06:46,40,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+393,2019-06-05 20:12:57,68,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+394,2019-06-03 19:55:25,14,4,2,True,True,0,Jul,33.0,4,That's Pretty Clever,2018,Wolfgang Warsch
+395,2019-06-02 21:05:08,124,33,2,True,True,0,Jul,8.0,33,Terraforming Mars,2016,Jacob Fryxelius
+396,2019-06-02 16:47:55,71,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+397,2019-06-01 21:49:48,53,32,3,False,True,0,Paula,23192.0,32,Acquire,1964,Sid Sackson
+398,2019-06-01 15:46:08,240,13,1,False,False,1,,,13,The 7th Continent,2017,"Ludovic Roudy, Bruno Sautter"
+399,2019-05-30 16:59:02,80,31,1,False,False,1,,,31,Deckscape: Behind the Curtain,2019,"Martino Chiacchiera, Silvano Sorrentino"
+400,2019-05-22 19:46:10,48,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+401,2019-05-21 19:25:34,75,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+402,2019-05-19 18:08:15,72,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+403,2019-05-19 18:07:21,50,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+404,2019-05-19 15:33:34,150,7,3,False,True,0,Jul,120.0,7,Wizard,1984,Ken Fisher
+407,2019-05-16 20:12:54,54,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+408,2019-05-15 19:46:38,43,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+409,2019-05-12 16:36:46,100,7,3,False,True,0,Jul,160.0,7,Wizard,1984,Ken Fisher
+412,2019-05-12 11:17:50,18,1,2,True,True,0,Paula,2.0,1,Azul,2017,Michael Kiesling
+413,2019-05-12 10:54:36,60,30,2,True,True,1,,,30,Pandemic Legacy: Season 1,2015,"Rob Daviau, Matt Leacock"
+414,2019-05-06 21:14:40,54,9,3,False,True,0,Paula,14.0,9,Isle of Skye: From Chieftain to King,2015,"Andreas Pelikan, Alexander Pfister"
+415,2019-05-06 20:19:43,70,27,3,False,True,0,Jul,13.0,27,Endeavor: Age of Sail,2018,"Carl de Visser, Jarratt Gray"
+416,2019-05-05 15:06:10,70,29,2,False,False,1,,,29,Escape Room: The Game,2016,
+418,2019-05-04 16:38:36,60,29,2,False,False,1,,,29,Escape Room: The Game,2016,
+420,2019-04-28 13:35:21,21,1,2,True,True,0,Jul,11.0,1,Azul,2017,Michael Kiesling
+421,2019-04-28 13:11:48,23,28,2,True,True,0,Paula,20.0,28,Abyss,2014,"Bruno Cathala, Charles Chevallier"
+423,2019-04-22 22:12:32,135,27,3,False,True,0,Jul,7.0,27,Endeavor: Age of Sail,2018,"Carl de Visser, Jarratt Gray"
+424,2019-04-22 20:14:35,30,1,3,False,True,0,Jul,20.0,1,Azul,2017,Michael Kiesling
+425,2019-04-22 17:53:03,150,19,3,False,True,0,Jul,69.0,19,Teotihuacan: City of Gods,2018,Daniele Tascini
+426,2019-04-22 13:43:33,90,26,3,False,True,1,,,26,T.I.M.E Stories: Under the Mask,2016,"Guillaume Montiage, Manuel Rozoy"
+427,2019-04-20 10:17:07,120,26,3,False,True,1,,,26,T.I.M.E Stories: Under the Mask,2016,"Guillaume Montiage, Manuel Rozoy"
+428,2019-04-19 15:34:10,0,7,3,False,False,0,Nicola,,7,Wizard,1984,Ken Fisher
+431,2019-04-19 10:12:24,4,24,2,True,True,0,Jul,2.0,24,KLASK,2014,Mikkel Bertelsen
+432,2019-04-19 10:12:05,5,24,2,True,True,0,Jul,1.0,24,KLASK,2014,Mikkel Bertelsen
+433,2019-04-18 20:24:01,26,1,2,True,True,0,Jul,6.0,1,Azul,2017,Michael Kiesling
+434,2019-04-18 19:56:24,3,24,2,True,True,0,Paula,2.0,24,KLASK,2014,Mikkel Bertelsen
+435,2019-04-18 19:55:54,3,24,2,True,True,0,Paula,3.0,24,KLASK,2014,Mikkel Bertelsen
+436,2019-04-07 17:51:55,20,25,4,False,True,0,Jul,9.0,25,,0,
+437,2019-04-07 17:51:15,14,25,4,False,True,0,Jul,12.0,25,,0,
+438,2019-04-07 17:50:07,120,7,3,False,True,0,Paula,210.0,7,Wizard,1984,Ken Fisher
+441,2019-03-24 13:15:02,14,2,2,False,False,0,Nicola,,2,Qwixx,2012,Steffen Benndorf
+442,2019-03-24 13:14:22,10,2,2,False,False,0,Nicola,,2,Qwixx,2012,Steffen Benndorf
+443,2019-03-24 13:13:42,13,2,2,False,False,0,Jul,,2,Qwixx,2012,Steffen Benndorf
+444,2019-03-24 13:11:29,20,25,2,False,False,0,Nicola,,25,,0,
+445,2019-03-24 13:10:52,18,25,2,False,False,0,Jul,,25,,0,
+446,2019-03-24 13:10:15,21,25,2,False,False,0,Nicola,,25,,0,
+447,2019-03-22 10:00:00,390,20,1,False,False,0,Jul,,20,Poker,1810,(Uncredited)
+448,2019-03-17 10:00:00,9,24,2,False,False,0,Nicola,,24,KLASK,2014,Mikkel Bertelsen
+449,2019-03-17 10:00:00,8,24,2,False,False,0,Nicola,,24,KLASK,2014,Mikkel Bertelsen
+450,2019-03-17 10:00:00,5,24,2,False,False,0,Jul,,24,KLASK,2014,Mikkel Bertelsen
+451,2019-03-17 10:00:00,6,24,2,False,False,0,Paula,,24,KLASK,2014,Mikkel Bertelsen
+452,2019-03-17 10:00:00,4,24,2,False,False,0,Paula,,24,KLASK,2014,Mikkel Bertelsen
+453,2019-03-17 10:00:00,120,7,3,False,True,0,Nicola,140.0,7,Wizard,1984,Ken Fisher
+456,2019-03-16 10:00:00,11,24,2,True,True,0,Jul,1.0,24,KLASK,2014,Mikkel Bertelsen
+457,2019-03-14 19:48:01,32,23,2,True,True,0,Jul,5.0,23,Crokinole,1876,(Uncredited)
+458,2019-03-14 19:46:34,14,24,2,True,True,0,Paula,1.0,24,KLASK,2014,Mikkel Bertelsen
+459,2019-03-12 19:39:06,17,11,2,True,True,0,Jul,6.0,11,Patchwork,2014,Uwe Rosenberg
+460,2019-03-10 17:54:58,141,7,3,False,True,0,Nicola,260.0,7,Wizard,1984,Ken Fisher
+463,2019-03-09 11:04:41,2,22,2,True,True,1,,,22,Codenames: Duet,2017,"Vlaada Chvátil, Scot Eaton"
+464,2019-03-09 11:04:24,3,22,2,True,True,1,,,22,Codenames: Duet,2017,"Vlaada Chvátil, Scot Eaton"
+465,2019-03-09 11:03:49,11,22,2,True,True,1,,,22,Codenames: Duet,2017,"Vlaada Chvátil, Scot Eaton"
+466,2019-03-09 11:02:34,32,9,2,True,True,0,Jul,4.0,9,Isle of Skye: From Chieftain to King,2015,"Andreas Pelikan, Alexander Pfister"
+467,2019-03-03 10:00:00,66,21,1,False,False,1,,,21,Unlock!: Escape Adventures,2017,"Alice Carroll, Thomas Cauët, Cyril Demaegd"
+468,2019-03-02 20:36:56,122,13,1,False,False,1,,,13,The 7th Continent,2017,"Ludovic Roudy, Bruno Sautter"
+469,2019-03-02 10:49:42,19,1,2,True,True,0,Jul,7.0,1,Azul,2017,Michael Kiesling
+470,2019-03-02 10:22:21,55,3,2,True,True,0,Paula,9.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+471,2019-02-24 18:13:43,61,13,1,False,False,1,,,13,The 7th Continent,2017,"Ludovic Roudy, Bruno Sautter"
+472,2019-02-24 16:07:36,100,19,2,True,True,0,Paula,27.0,19,Teotihuacan: City of Gods,2018,Daniele Tascini
+473,2019-02-23 16:30:14,240,20,6,False,True,0,Jul,5.0,20,Poker,1810,(Uncredited)
+474,2019-02-17 18:06:23,34,18,3,False,True,0,Paula,7.0,18,Dixit: Revelations,2016,Jean-Louis Roubira
+475,2019-02-17 17:16:06,120,7,3,False,True,0,Jul,210.0,7,Wizard,1984,Ken Fisher
+478,2019-02-17 11:47:40,117,19,2,True,True,0,Paula,25.0,19,Teotihuacan: City of Gods,2018,Daniele Tascini
+479,2019-02-16 11:54:47,27,4,2,True,True,0,Paula,12.0,4,That's Pretty Clever,2018,Wolfgang Warsch
+480,2019-02-14 18:45:22,46,17,3,False,True,0,Paula,6.0,17,Dixit,2008,Jean-Louis Roubira
+481,2019-02-14 18:44:06,95,7,3,False,True,0,Nicola,360.0,7,Wizard,1984,Ken Fisher
+484,2019-02-10 19:14:20,45,18,3,False,True,0,,10.0,18,Dixit: Revelations,2016,Jean-Louis Roubira
+485,2019-02-09 21:42:12,28,10,3,False,True,1,,,10,The Mind,2018,Wolfgang Warsch
+486,2019-02-09 21:04:27,46,17,3,False,True,0,Jul,15.0,17,Dixit,2008,Jean-Louis Roubira
+487,2019-02-09 20:12:36,50,17,3,False,True,0,Paula,8.0,17,Dixit,2008,Jean-Louis Roubira
+488,2019-02-06 22:20:44,66,3,3,False,True,0,Paula,34.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+489,2019-02-06 20:44:32,52,9,3,False,True,0,Maribel,2.0,9,Isle of Skye: From Chieftain to King,2015,"Andreas Pelikan, Alexander Pfister"
+490,2019-02-04 18:39:10,24,1,2,True,True,0,Paula,10.0,1,Azul,2017,Michael Kiesling
+491,2019-02-03 18:11:07,64,15,4,False,True,1,,,15,T.I.M.E Stories: Expedition – Endurance,2017,Croc
+492,2019-02-03 18:10:09,83,16,4,False,True,1,,,16,Exit: The Game – The Polar Station,2017,"Inka Brand, Markus Brand"
+493,2019-02-03 14:55:51,16,4,2,True,True,0,Jul,17.0,4,That's Pretty Clever,2018,Wolfgang Warsch
+494,2019-02-03 11:15:55,49,3,2,True,True,0,Paula,20.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+495,2019-02-02 11:18:00,210,15,4,False,True,1,,,15,T.I.M.E Stories: Expedition – Endurance,2017,Croc
+496,2019-01-28 20:14:51,0,7,3,False,True,0,Jul,300.0,7,Wizard,1984,Ken Fisher
+499,2019-01-27 20:18:29,85,14,1,False,False,1,,,14,Deckscape: The Fate of London,2017,"Martino Chiacchiera, Silvano Sorrentino"
+500,2019-01-27 18:14:14,60,13,1,False,False,1,,,13,The 7th Continent,2017,"Ludovic Roudy, Bruno Sautter"
+501,2019-01-24 19:36:38,26,4,2,True,True,0,Paula,32.0,4,That's Pretty Clever,2018,Wolfgang Warsch
+502,2019-01-23 19:50:55,56,3,2,True,True,0,Jul,17.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+503,2019-01-20 18:42:52,55,12,3,False,True,0,Paula,85.0,12,Rummikub,1977,Ephraim Hertzano
+504,2019-01-20 18:41:05,103,7,3,False,True,0,Paula,240.0,7,Wizard,1984,Ken Fisher
+507,2019-01-18 22:39:53,104,7,3,False,True,0,Paula,170.0,7,Wizard,1984,Ken Fisher
+510,2019-01-17 20:47:03,25,11,2,True,True,0,Paula,9.0,11,Patchwork,2014,Uwe Rosenberg
+511,2019-01-13 21:36:05,12,10,4,False,True,1,,,10,The Mind,2018,Wolfgang Warsch
+512,2019-01-13 21:34:11,3,10,4,False,True,1,,,10,The Mind,2018,Wolfgang Warsch
+513,2019-01-13 21:32:50,77,7,4,False,True,0,Nicola,90.0,7,Wizard,1984,Ken Fisher
+516,2019-01-13 21:31:40,34,1,4,False,True,0,Paula,5.0,1,Azul,2017,Michael Kiesling
+517,2019-01-13 16:59:04,29,9,2,True,True,0,Jul,5.0,9,Isle of Skye: From Chieftain to King,2015,"Andreas Pelikan, Alexander Pfister"
+518,2019-01-13 14:44:30,69,3,2,True,True,0,Paula,2.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+519,2019-01-13 10:46:55,24,1,2,True,True,0,Jul,2.0,1,Azul,2017,Michael Kiesling
+520,2019-01-12 11:34:39,26,1,2,True,True,0,Jul,20.0,1,Azul,2017,Michael Kiesling
+521,2019-01-11 20:56:42,30,4,2,True,True,0,Jul,44.0,4,That's Pretty Clever,2018,Wolfgang Warsch
+522,2019-01-11 20:18:28,27,1,2,True,True,0,Paula,5.0,1,Azul,2017,Michael Kiesling
+523,2019-01-10 21:35:27,107,7,3,False,True,0,Paula,220.0,7,Wizard,1984,Ken Fisher
+526,2019-01-08 19:12:20,59,3,2,True,True,0,Paula,21.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+527,2019-01-06 20:01:47,68,3,2,True,True,0,Jul,32.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+528,2019-01-04 23:48:58,57,8,4,False,True,1,,,8,T.I.M.E Stories,2015,"Peggy Chassenet, Manuel Rozoy"
+529,2019-01-04 23:46:48,196,8,4,False,True,1,,,8,T.I.M.E Stories,2015,"Peggy Chassenet, Manuel Rozoy"
+530,2019-01-03 20:57:17,125,7,3,False,True,0,Jul,220.0,7,Wizard,1984,Ken Fisher
+533,2019-01-03 20:54:51,67,6,3,False,True,0,Jul,7.0,6,Sluff Off!,2003,Stefan Dorra
+534,2019-01-03 20:52:52,5,2,3,False,True,0,Paula,6.0,2,Qwixx,2012,Steffen Benndorf
+535,2019-01-03 20:52:25,9,2,3,False,True,0,Paula,40.0,2,Qwixx,2012,Steffen Benndorf
+536,2019-01-03 20:52:01,13,2,3,False,True,0,Jul,30.0,2,Qwixx,2012,Steffen Benndorf
+537,2019-01-03 20:51:04,15,2,3,False,True,0,Paula,40.0,2,Qwixx,2012,Steffen Benndorf
+538,2019-01-02 21:58:48,48,5,2,True,True,0,Jul,11.0,5,Targi,2012,Andreas Steiger
+539,2019-01-02 21:01:39,32,4,2,True,True,0,Paula,4.0,4,That's Pretty Clever,2018,Wolfgang Warsch
+540,2019-01-02 16:48:03,41,3,2,True,True,0,Jul,8.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+541,2019-01-02 15:49:47,75,3,2,True,True,0,Jul,11.0,3,Heaven & Ale,2017,"Michael Kiesling, Andreas Schmidt"
+542,2019-01-02 11:13:11,36,1,2,True,True,0,Paula,31.0,1,Azul,2017,Michael Kiesling
+543,2019-01-01 16:40:32,22,2,3,False,True,0,Jul,41.0,2,Qwixx,2012,Steffen Benndorf
+544,2019-01-01 16:37:39,35,1,2,True,True,0,Paula,17.0,1,Azul,2017,Michael Kiesling
